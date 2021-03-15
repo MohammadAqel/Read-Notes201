@@ -90,4 +90,4 @@ example var colors; colors ['white', 'black', ' custom'];*
 
 ### USING do WHILE LOOPS
 
-*The key difference between a whi 1 e loop and a do whi 1 e loop is that the statements in the code block come before the condition. This means that those statements are run once whether or not the condition is met.*
+*The key difference between a while loop and a do while loop is that the statements in the code block come before the condition. This means that those statements are run once whether or not the condition is met.*
