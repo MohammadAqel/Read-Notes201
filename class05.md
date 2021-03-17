@@ -162,7 +162,7 @@ want based on the default size of the text used in browsers. For example, you co
 
 ### font-family
 
-*This specifies the name of the font. This name can then be used as a value of the font-familyproperty in the rest of the style sheet (as shown in the rule for the <h1> and <h2> elements).*
+*This specifies the name of the font. This name can then be used as a value of the font-familyproperty in the rest of the style sheet (as shown in the rule for the h1 and h2 elements).*
 
 ### src
 
