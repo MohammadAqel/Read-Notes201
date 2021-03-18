@@ -1,3 +1,15 @@
+# Domain model
+
+*A domain model is a system of abstractions that describes selected aspects of a sphere of knowledge, influence or activity (a domain[3]). The model can then be used to solve problems related to that domain. The domain model is a representation of meaningful real-world concepts pertinent to the domain that need to be modeled in software. The concepts include the data involved in the business and rules the business uses in relation to that data. A domain model leverages natural language of the domain.*
+
+*A domain model generally uses the vocabulary of the domain, thus allowing a representation of the model to be communicated to non-technical stakeholders. It should not refer to any technical implementations such as databases or software components that are being designed.*
+
+*In software engineering, a domain model is a conceptual model of the domain[definition needed] that incorporates both behavior and data. In ontology engineering, a domain model is a formal representation of a knowledge domain with concepts, roles, datatypes, individuals, and rules, typically grounded in a description logic.*
+
+*A domain model is generally implemented as an object model within a layer that uses a lower-level layer for persistence and "publishes" an API to a higher-level layer to gain access to the data and behavior of the model.*
+
+*In the Unified Modeling Language (UML), a class diagram is used to represent the domain model.*
+
 # Tables
 
 ## What's a Table?
