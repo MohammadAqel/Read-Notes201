@@ -12,7 +12,11 @@
 
 *Error objects are created to help you find the mistakes in your code.*
 
-*Types of errors: 1-Syntax error 2- mismatching or unclosed quotes 3-missing closing bracket, etc...*
+## Types of errors:
+
+1. Syntax error
+2. mismatching or unclosed quotes
+3. missing closing bracket, etc...*
 
 *Deal with errors: debug the script, or by using try,catch,throw and finally statements, like when you request data from third party site and their server doesn't respond.*
 
